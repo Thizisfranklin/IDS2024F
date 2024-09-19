@@ -1,5 +1,5 @@
 # IDS2024F - Inteoduction to Data Science (Fall 2024)  
-THis project contains all my activites related to DATA 1301 Intro to Data Science  
+This project contains all my activites related to DATA 1301 Intro to Data Science  
 ---  
 **Name**:Franklin Osualaaham  
 **School ID**: 1001949548  
