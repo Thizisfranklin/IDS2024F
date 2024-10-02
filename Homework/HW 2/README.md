@@ -37,6 +37,7 @@ c) Ability to loop (while, for)
 25) Extra Credit:  
 Distinguishing exponential vs. power-law behavior in a 2D plot:  
 Exponential behavior: Appears as a straight line on a semi-logarithmic plot (logarithmic scale on the y-axis).  
-Power-law behavior: Appears as a straight line on a log-log plot (logarithmic scale on both axes).      
+Power-law behavior: Appears as a straight line on a log-log plot (logarithmic scale on both axes).
+   
 
  
