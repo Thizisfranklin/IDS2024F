@@ -1,7 +1,7 @@
 ### THIS IS MY ANSWERS FOR QUIZ TWO (2) 
 1) What is the fastest component of a computer memory? the register  
 2) Why is modern computer memory comprised of a multilevel (hierarchical) structure? Modern computer memory is hierarchical to balance speed and cost, allowing quick access to frequently used data while providing larger storage for less critical information.  
-3) What is the slowest kind of computer storage device? Disk
+3) What is the slowest kind of computer storage device? Magnetic tape 
 4) Name the hierarchy of the memory of modern computers, from the smallest to the largest memory size? Answer: the register, the L1 cache, the L2 cache, the L3 cache , DRam, Disk.  
 5) What is smallest unit of information in computers?  Answer: Bit  
 7) Why have humans chosen the binary numbers (0 and 1) to represent data in computers? Humans chose binary because it is simple and reliable for electronic systems, representing two states (on/off) which are easier to implement with physical components.  
