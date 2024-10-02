@@ -1,3 +1,4 @@
+THIS IS MY ANSWERS FOR QUIZ TWO (2) 
 1) What is the fastest component of a computer memory? the register  
 2) Why is modern computer memory comprised of a multilevel (hierarchical) structure? Modern computer memory is hierarchical to balance speed and cost, allowing quick access to frequently used data while providing larger storage for less critical information.  
 3) What is the slowest kind of computer storage device? Disk
