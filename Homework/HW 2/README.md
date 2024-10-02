@@ -1,4 +1,4 @@
-
+1. [file:///C:/Users/frank/OneDrive/Documents/chart.pdf]
 
 3. What does ENIAC stand for? ENIAC stands for Electronic Numerical Integrator and Computer.  
 4. Why is everything represented by integers in computers? Computers use binary (0s and 1s) to represent data because it aligns with the digital nature of their hardware, which can easily distinguish between two states: on and off.  
