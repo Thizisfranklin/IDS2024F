@@ -4,7 +4,7 @@
 4. Why is everything represented by integers in computers? Computers use binary (0s and 1s) to represent data because it aligns with the digital nature of their hardware, which can easily distinguish between two states: on and off.  
 5. What is the name of the fastest part of the computer memory?The fastest part of the computer memory is the registers.  
 6. What is the slowest storage device in computers (that is typically integrated with computers)? The slowest storage device typically integrated with computers is the HDD (Hard Disk Drive).  
-7. What is the smal1lest unit of information in computer science? The smallest unit of information in computer science is the bit.     
+7. What is the smallest unit of information in computer science? The smallest unit of information in computer science is the bit.     
 (A) What is the closest programming language to machine code (i.e., binary code)?The closest programming language to machine code is assembly language.  
 (B) Does it need interpretation in order to become machine-comprehensible? Yes, assembly language needs to be converted into machine code by an assembler.  
 8. (A) Name the oldest high-level programming language that is still in active daily use ?The oldest high-level programming language still in active daily use is FORTRAN  
