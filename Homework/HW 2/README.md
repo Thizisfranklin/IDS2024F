@@ -1,5 +1,6 @@
-1. ![pdf programming chart](file:///C:/Users/frank/OneDrive/Documents/chart.pdf)
-
+1. ![pdf programming chart](file:///C:/Users/frank/OneDrive/Documents/chart.pdf)  
+2. A) FORTRAN (1954), Algol 58 (1958) ,Lisp (1958) ,BASIC (1964) ,C (1972) ,sh (1977) ,C++ (1985) ,Fortran 90 (1991) ,Python (1991) ,Java (1995) ,JavaScript (1995) ,C# (2000)  
+B) Decades of Development: a) 1950s: FORTRAN, Algol 58, Lisp b) 1960s: BASIC c) 1970s: C, sh d) 1980s: C++, d) 1990s: Fortran 90, Python, Java, JavaScript e) 2000s: C#  
 3. What does ENIAC stand for? ENIAC stands for Electronic Numerical Integrator and Computer.  
 4. Why is everything represented by integers in computers? Computers use binary (0s and 1s) to represent data because it aligns with the digital nature of their hardware, which can easily distinguish between two states: on and off.  
 5. What is the name of the fastest part of the computer memory?The fastest part of the computer memory is the registers.  
@@ -33,7 +34,7 @@ c) Moore’s Law: The number of transistors on a microchip doubles approximately
 a) Conditional branching (if-then-else)  
 b) Ability to change state (assignment)  
 c) Ability to loop (while, for)  
-Extra Credit:  
+25) Extra Credit:  
 Distinguishing exponential vs. power-law behavior in a 2D plot:  
 Exponential behavior: Appears as a straight line on a semi-logarithmic plot (logarithmic scale on the y-axis).  
 Power-law behavior: Appears as a straight line on a log-log plot (logarithmic scale on both axes).      
