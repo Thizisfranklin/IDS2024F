@@ -50,7 +50,7 @@ Java, COBOL, C++, Python, Fortran, B:
 
 (A) Name a second-generation programming language.
 
-(B) Which language-generation are Fortran, C, C++, MATLAB, Python, R?
+(B) Which language-generation are Fortran, C, C++, MATLAB, Python, R? The first language generation 
 
 In what decades C, C++, MATLAB, and Python were created, respectively? (Hint: Use the diagrams from our lecture notes)
 
