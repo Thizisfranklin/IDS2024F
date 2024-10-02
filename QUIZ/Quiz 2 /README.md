@@ -1,19 +1,19 @@
-What is the fastest component of a computer memory? RAM
-Why is modern computer memory comprised of a multilevel (hierarchical) structure? it is because  
-What is the slowest kind of computer storage device? The 
-Name the hierarchy of the memory of modern computers, from the smallest to the largest memory size.
-What is smallest unit of information in computers? (Hint: Recall our computer programming lecture)
+What is the fastest component of a computer memory? the register
+Why is modern computer memory comprised of a multilevel (hierarchical) structure? 
+What is the slowest kind of computer storage device? The Disk 
+Name the hierarchy of the memory of modern computers, from the smallest to the largest memory size? Answer: the register, the L1 cache, the L2 cache, the L3 cache , DRam, Disk. 
+What is smallest unit of information in computers?  Answer: Bit
 
 Why have humans chosen the binary numbers (0 and 1) to represent data in computers? this is because 0 and 1 are 
 
-What is the typical speed of contemporary computer memory registers? the registers are  typically 
+What is the typical speed of contemporary computer memory registers? the registers are  typically less than 0 nanoseconds (ns) 
 What decade was the first digital computer built? it was built  in the 1980s
 
 What decade was the first general-purpose digital computer built? 
 
 What is a fixed program computer? Fixed program comnputer 
 
-Name an example of modern-day fixed program computer?
+Name an example of modern-day fixed program computer? 
 
 What is the difference between declarative and imperative knowledge? 
 Classify the following statements as imperative or declarative knowledge.  
