@@ -14,6 +14,28 @@
 10. In what decades were C, C++, and MATLAB/Python created, respectively? C: 1970s, C++: 1980s, MATLAB: 1970s,Python: 1990s.  
 11. Name an ancestor programming language of C? An ancestor of C is B language.
 12. Name a programming language ancestor of C++ ? An ancestor of C++ is C.
-13. Name a programming language ancestor of MATLAB and a programming language ancestor of Python ? An ancestor of MATLAB is Fortran.
-14. An ancestor of Python is ABC11? What is the fastest part of the memory in the memory hierarchy of modern computers?
-15. The fastest part of the memory hierarchy is the registers
+13. Name a programming language ancestor of MATLAB and a programming language ancestor of Python ? An ancestor of MATLAB is Fortran.An ancestor of Python is ABC.  
+14. What is the fastest part of the memory in the memory hierarchy of modern computers?The fastest part of the memory hierarchy is the registers.    
+15. What is typically the smallest memory unit in the memory hierarchy of modern computers?The smallest memory unit is the bit.  
+ How much faster is the access to the register memory compared to RAM in modern computers?Register memory access is typically faster by several orders of magnitude compared to RAM.  
+16. How much faster is the access to the RAM compared to typical SSD hard drives in modern computers? RAM access is typically 10-100 times faster than SSDs.  
+17. How much faster is the access to the RAM compared to typical HDD hard drives in modern computers? RAM access is typically 1000 times faster than HDDs.  
+18. What are the primary roles of transistors in computers? Transistors act as switches and amplifiers in computers, controlling the flow of electrical signals and enabling binary computation.  
+19. We know that more transistors mean faster computers. Then, why cannot we add more transistors to computers to make them faster? Adding more transistors increases heat and power consumption, and we face diminishing returns due to physical and quantum limitations.  
+20. What are the three tasks accomplished within a CPU cycle? The three tasks are fetch, decode, and execute.  
+21. Can a powerful computer with more CPU cycles be slower than a computer with fewer CPU cycles? Why or How? Yes, if the computer with more CPU cycles has slower memory access or inefficient software, it can be slower.  
+22. What is the bottleneck of speed in modern computers? CPU clocks or memory access? Why? The bottleneck is often memory access because CPU speeds have outpaced the speed of memory access.  
+23. What is the difference between the Dennard Scaling, MOSFET scaling, and Moore’s law?  
+a)Dennard Scaling: As transistors get smaller, their power density stays constant, so that power use stays in proportion with area.   
+b) MOSFET Scaling: Refers to the scaling of MOSFETs (transistors) to improve performance and reduce power consumption.   
+c) Moore’s Law: The number of transistors on a microchip doubles approximately every two years.
+24. Three fundamental components of a Turing-complete language:  
+a) Conditional branching (if-then-else)  
+b) Ability to change state (assignment)  
+c) Ability to loop (while, for)  
+Extra Credit:  
+Distinguishing exponential vs. power-law behavior in a 2D plot:  
+Exponential behavior: Appears as a straight line on a semi-logarithmic plot (logarithmic scale on the y-axis).  
+Power-law behavior: Appears as a straight line on a log-log plot (logarithmic scale on both axes).      
+
+ 
