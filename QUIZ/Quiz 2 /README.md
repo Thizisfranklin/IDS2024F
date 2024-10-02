@@ -58,6 +58,10 @@ Name a programming language ancestor of MATLAB and a programming language ancest
 How do you define logarithm? Explain with a simple example just as we did in class?: A logarithm is the power to which a number (the base) must be raised to produce a given number. Log base 2 of 8 is 3( because 2 raised to power 3 is 8 )  
 
 ## Extra Credit:
-Magnetic tapes generally last longer than HDDs. Magnetic tapes can last up to 30 years, while HDDs typically last around 5-10 years.  
-An abacus existed long before digital computers.  
-Summation problem: 
+1) Magnetic tapes generally last longer than HDDs. Magnetic tapes can last up to 30 years, while HDDs typically last around 5-10 years.  
+2) An abacus existed long before digital computers.  
+3) Summation problem:  
+the value of S = 3 + 6 + 9 + ... + 99( Arithmetic Series)
+First term a = 3 , common diff. d, = 3, last term, l = 99 , then n ( number of terms)  = ((99-3)/3) + 1 =333 , Sum , S = n/2 * ( a+l) = 1683
+
+
