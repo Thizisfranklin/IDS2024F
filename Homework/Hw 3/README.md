@@ -15,10 +15,10 @@
 7) In deductive reasoning, a logical proposition cannot simultaneously be both true and false. This is because deductive reasoning adheres to the principle of non-contradiction, which asserts that contradictory statements cannot both be true at the same time. A proposition is either true or false, and the validity of a deductive argument relies on this consistency
 +  Premise 1: All mammals have a heart.
 +  Premise 2: A dog is a mammal.
-+  Conclusion: Therefore, a dog has a heart.
-  8) In summary, A ⇒ B does not imply B ⇒ A because implication is a one-way relationship unless both directions are established, which would require A ↔ B (A if and only if B), indicating equivalence.  
++  Conclusion: Therefore, a dog has a heart.  
+  8) No logical implication isn't same as physical causation. As implication is directly related/proportional to causation.  
     **Example**:
-   +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition  
+   +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition.   
 9) **Example**:
 + A: "A tree has green leaves."  
 + B: "It is spring or summer"  
