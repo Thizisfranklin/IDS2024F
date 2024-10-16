@@ -19,4 +19,9 @@
   8) In summary, A ⇒ B does not imply B ⇒ A because implication is a one-way relationship unless both directions are established, which would require A ↔ B (A if and only if B), indicating equivalence.  
     **Example**:
    +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition  
-     
+9) **Example**:
++ A: "A tree has green leaves."  
++ B: "It is spring or summer"  
++ A ⇒ B: "If it is raining, then the streets are wet."This is logically true in many common situations, because when it rains, the streets often get wet. Rain is a common cause of wet streets.
++ B ⇒ A: "If the streets are wet, then it must be raining."
+This is not necessarily true. The streets could be wet for reasons other than rain. Hence The wetness of the streets (B) could have many causes besides rain (A), such as washing the streets, a burst water pipe, or any number of other factors. While A ⇒ B might hold logically (because rain often leads to wet streets), it doesn’t imply that A (rain) is the cause of B (wet streets), as there are many other potential causes for the wetness. This shows that logical implication does not always equate to physical causation.  
