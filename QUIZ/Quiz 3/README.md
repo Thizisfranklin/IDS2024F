@@ -22,8 +22,8 @@
     + Premise 1:  All humans have teeth 
     + Premise 2 : Franklin is a human  
     + Conclusion: Therefore, Franklin has a teeth    
-  5) The main difference lies in the fact that observational data is an approximation of reality, shaped by our methods, tools, and perspectives,and it can subject to biases and error, while reality itself is the full, objective truth, which may not always be fully captured by our observations due to limitations.
-+  Can we then observe reality? No
+ 5)  The main difference lies in the fact that observational data is an approximation of reality, shaped by our methods, tools, and perspectives,and it can subject to biases and error, while reality itself is the full, objective truth, which may not always be fully captured by our observations due to limitations.
++  Can we then observe reality? No. Personally,  Think we cannot directly observe reality in its entirety. Our perception of reality is always mediated by senses, tools, and theories. What we observe is typically a specific aspect of reality  but models in general help us perecieve what we assume to be real. Example is quantum particles. 
   6)  From my understanding, Model validation is  simply about checking how well the model performs with new data (it answers, "Does the model work for data it hasn't seen before?").
 Model calibration is about adjusting the model's parameters to make its predictions more accurate (it answers, "How can we fine-tune the model to better match observed outcomes?").
 
