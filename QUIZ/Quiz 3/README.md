@@ -50,7 +50,7 @@ Scenario: Weather Conditions and Umbrella. I am deciding whether to carry an umb
 13) A completely empty universe would contain no information.  
 14) 4 bits can represent 16 different states (or integers).  
 15) 4 boxes, each with 3 possible values (−1, 0, +1), can represent 81 different states.  
-16) 
-
+16) Conjunction illustration (https://github.com/Thizisfranklin/IDS2024F/blob/main/conjunction%20.jpg)  
+17) Disjunction Illusration  ( https://github.com/Thizisfranklin/IDS2024F/blob/main/Disjunction.png)  
 
 
