@@ -25,3 +25,9 @@
 + A ⇒ B: "If it is raining, then the streets are wet."This is logically true in many common situations, because when it rains, the streets often get wet. Rain is a common cause of wet streets.
 + B ⇒ A: "If the streets are wet, then it must be raining."
 This is not necessarily true. The streets could be wet for reasons other than rain. Hence The wetness of the streets (B) could have many causes besides rain (A), such as washing the streets, a burst water pipe, or any number of other factors. While A ⇒ B might hold logically (because rain often leads to wet streets), it doesn’t imply that A (rain) is the cause of B (wet streets), as there are many other potential causes for the wetness. This shows that logical implication does not always equate to physical causation.  
+10) The policeman uses deductive reasoning to conclude that the man is dishonest. Here's the reasoning process in simple if-then statements:  
+  A ⇒ B ,  B ⇒ C , C ⇒ D
++ If the jewelry store window is broken (A), then the burglar alarm goes off (B).
++ If the burglar alarm goes off (B), then a masked man crawls out carrying a bag of jewelry (C).
++ If the masked man is crawling out with a bag of jewelry (C), then he is dishonest (D).
++ By linking these premises, the policeman concludes that the man is dishonest (D), based on the observed evidence that the man came out of the broken window with stolen jewelry. Therefore, by transitive reasoning (if A ⇒ B, and B ⇒ C, and C ⇒ D), the policeman concludes that D (the man is dishonest). This reasoning follows a chain of inferences based on observed evidence. Each step in the chain leads to the next, and ultimately, the policeman concludes that the man is a burglar.  
