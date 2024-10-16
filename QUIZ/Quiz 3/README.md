@@ -8,15 +8,18 @@
 + Conclusion: Therefore, the sun will rise in the east tomorrow.  
       Deductive reasoning:  
     **Example**
-    + Premise 1: All mammals have a backbone  
-    + Premise 2 : A man is a mammal  
-    + Conclusion: Therefore, a man has a backbone.      
+    + Premise 1:  All humans have teeth 
+    + Premise 2 : Franklin is a human  
+    + Conclusion: Therefore, Franklin has a teeth    
   4) The main difference lies in the fact that observational data is an approximation of reality, shaped by our methods, tools, and perspectives,and it can subject to biases and error, while reality itself is the full, objective truth, which may not always be fully captured by our observations due to limitations.
 +  Can we then observe reality? No
-  5)  Model validation is simply the use of science to test our hypothesis to ensure tally with our claims, while model calibration is the  
-6) Logical implication is completely different from physical causation.
-   Example:
-    A ⇒ B does not imply B ⇒ A because implication is a one-way relationship unless both directions are established, which would require A ↔ B (A if and only if B), indicating equivalence.
-Example:
-A: "A tree has green leaves". "B: "It is spring or summer." A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition
-   
+  5)  From my understanding, Model validation is  simply about checking how well the model performs with new data (it answers, "Does the model work for data it hasn't seen before?").
+Model calibration is about adjusting the model's parameters to make its predictions more accurate (it answers, "How can we fine-tune the model to better match observed outcomes?").
+
+
+
+6) Logical implication is completely different from physical causation. As implication is directly related/proportional to causation.   
+    **Example**:
+   +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition
+ 7)  Boolean
+ 8)  Th
