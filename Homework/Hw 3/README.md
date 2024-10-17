@@ -1,5 +1,7 @@
 1)  The three pillars of science are, experiment, and theory/ theoretical model, computation + Data
-2) 
+2)  Predictive computing: In many fields, especially in physics, chemistry, and biology, direct experimentation may be impossible or impractical due to ethical, logistical, or cost constraints. Computational simulations can replace physical experiments by modeling complex systems digitally and simulating their behaviors. Hence, allowing scientists to predict outcomes without needing to conduct expensive or harmful physical experiments. They also provide insights into phenomena that are difficult to observe directly (e.g., the behavior of distant galaxies or the microscopic interactions of molecules).
+Numerical Simulation: Ity can be used substitute for experiment and observational data, where it is not available for e.g in astronomy, instead of relying solely on telescope observations, computational analysis of datasets from space telescopes can help discover new planets, analyze cosmic phenomena, or predict celestial events.
+Data driven via machine learning: this as a substitute to theory if not available. E.g, it can substitute traditional financial theories (like the Efficient Market Hypothesis) because it doesn't rely on assumptions about the market being "efficient" or "rational." Instead, it uses historical data to learn patterns and make predictions. I think those models ( machine learning models) are more flexible and adaptive, and they often outperform traditional models, especially in complex and dynamic systems like financial markets.
 3) The deductive reasoning ang plausible reasoning.  
    For deductive reasoning:  
 +   Premise 1: All mammals have a backbone.  
@@ -19,7 +21,7 @@
   8) No it doesn't  
     **Example**:
    +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition.   
-9) **Example**:
+9) **Example**: (logical implication does not necessarily imply physical causation)
 + A: "A tree has green leaves."  
 + B: "It is spring or summer"  
 + A ⇒ B: "If it is raining, then the streets are wet."This is logically true in many common situations, because when it rains, the streets often get wet. Rain is a common cause of wet streets.
