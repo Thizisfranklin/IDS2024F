@@ -1,5 +1,5 @@
 1)  The three pillars of science are, experiment, and theory/ theoretical model, computation + Data
-
+2) 
 3) The deductive reasoning ang plausible reasoning.  
    For deductive reasoning:  
 +   Premise 1: All mammals have a backbone.  
@@ -16,7 +16,7 @@
 +  Premise 1: All mammals have a heart.
 +  Premise 2: A dog is a mammal.
 +  Conclusion: Therefore, a dog has a heart.  
-  8) No logical implication isn't same as physical causation. As implication is directly related/proportional to causation.  
+  8) No it doesn't  
     **Example**:
    +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition.   
 9) **Example**:
@@ -31,3 +31,10 @@ This is not necessarily true. The streets could be wet for reasons other than ra
 + If the burglar alarm goes off (B), then a masked man crawls out carrying a bag of jewelry (C).
 + If the masked man is crawling out with a bag of jewelry (C), then he is dishonest (D).
 + By linking these premises, the policeman concludes that the man is dishonest (D), based on the observed evidence that the man came out of the broken window with stolen jewelry. Therefore, by transitive reasoning (if A ⇒ B, and B ⇒ C, and C ⇒ D), the policeman concludes that D (the man is dishonest). This reasoning follows a chain of inferences based on observed evidence. Each step in the chain leads to the next, and ultimately, the policeman concludes that the man is a burglar.  
+11) The tiniest unit of information is the bit  
+12) A bit represents the smallest possible amount of information because it has only two possible values, making it the most basic form of data  
+13) Boxes question:  
++ 1 bit = 2 different states.
++ 2 bits = 4 different states.
++ 3 bits = 8 different states.
+14) 
