@@ -1,4 +1,4 @@
-1)  The three pillars of science are "Observation, Experiment, and Theory/Theoretical Modeling"  
+1)  The three pillars of science are, experiment, and theory/ theoretical model, computation + Data
 
 3) The deductive reasoning ang plausible reasoning.  
    For deductive reasoning:  
