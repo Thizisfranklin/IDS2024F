@@ -40,4 +40,6 @@ This is not necessarily true. The streets could be wet for reasons other than ra
 + 1 bit = 2 different states.
 + 2 bits = 4 different states.
 + 3 bits = 8 different states.
-14) 
+14) Conjunction illustration (https://github.com/Thizisfranklin/IDS2024F/blob/main/conjunction%20.jpg)  
+15) Disjunction Illusration  ( https://github.com/Thizisfranklin/IDS2024F/blob/main/Disjunction.png)  
+
