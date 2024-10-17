@@ -18,7 +18,7 @@ Data driven via machine learning: this as a substitute to theory if not availabl
 +  Premise 1: All mammals have a heart.
 +  Premise 2: A dog is a mammal.
 +  Conclusion: Therefore, a dog has a heart.  
-  8) No it doesn't  
+  8) No it doesn't since Does A⇒B therefore necessitate B⇒A.    
     **Example**:
    +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition.   
 9) **Example**: (logical implication does not necessarily imply physical causation)
