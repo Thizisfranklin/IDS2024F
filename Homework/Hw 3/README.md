@@ -14,11 +14,12 @@ Data driven via machine learning: this as a substitute to theory if not availabl
 4)  The main difference lies in the fact that observational data is an approximation of reality, shaped by our methods, tools, and perspectives,and it can subject to biases and error, while reality itself is the full, objective truth, which may not always be fully captured by our observations due to limitations.
 5) The pyramid moves from observation (gathering data), to model construction, calibration and validation and finally to prediction (testing that explanation).    
 6) Logical proposition is a statement that can be either true or false; it must be one or the other, and it cannot be both.
-7) In deductive reasoning, a logical proposition cannot simultaneously be both true and false. This is because deductive reasoning adheres to the principle of non-contradiction, which asserts that contradictory statements cannot both be true at the same time. A proposition is either true or false, and the validity of a deductive argument relies on this consistency
+7) In deductive reasoning, a logical proposition cannot simultaneously be both true and false. This is because deductive reasoning adheres to the principle of non-contradiction, which asserts that contradictory statements cannot both be true at the same time. A proposition is either true or false, and the validity of a deductive argument relies on this consistency  
+**Example**  
 +  Premise 1: All mammals have a heart.
 +  Premise 2: A dog is a mammal.
 +  Conclusion: Therefore, a dog has a heart.  
-  8) No it doesn't since Does A⇒B therefore necessitate B⇒A.    
+  8) No it doesn't necessitate that since A⇒B therefore B⇒A.    
     **Example**:
    +  A: "A tree has green leaves". "B: "It is spring or summer."  A ⇒ B (If a tree has green leaves, it's likely spring or summer) is generally true, but B ⇒ A (If it is spring or summer, the tree must have green leaves) is not always true. This example shows that A ⇒ B does not necessarily imply B ⇒ A because not all trees will have green leaves in the spring or summer due to various factors like evergreen species or environmental condition.   
 9) **Example**: (logical implication does not necessarily imply physical causation)
