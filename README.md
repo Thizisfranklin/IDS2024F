@@ -5,7 +5,7 @@ This project contains all my activities related to DATA 1301 Intro to Data Scien
 **School ID**: 1001949548  
 **Email**: fmo9548@mavs.uta.edu  
 **Department**: Department of Science   
-**University**: (The University of Texas Arlington)(https://www.uta.edu/)  
+**University**: [The University of Texas Arlington](https://www.uta.edu/)  
 **Level**: Undergraduate Transfer Junior (3rd year)   
 **Position Title**: Student  
 **Course Webpage**:  https://www.cdslab.org/IDS2024F/  
