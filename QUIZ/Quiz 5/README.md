@@ -14,7 +14,7 @@
 11) The uncertainty there is aleotric
 12) All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as aesthetics
 13) The two tpyes are the discrete and continuous data values asethetics 
-14) factors and levels are differents
+14) Levels are the set of values assigned to the factors.
 15) the continous data value and the discrete data value. forthge discrete data value examples are the whole number like 1,2 and for the continous data values we ahve like numbers we decimals like 1.01, 1.002, e.t.c
 16) VAriable holding data a re commonly called Variables.
 17) Examples: Ordered data - Grade for the semester, while unorderd data is the names of people in the class 
@@ -25,5 +25,9 @@
     + Accent color scale: this is used to highlight specific element in a data.
     + Divging color scale: thi is ude to visualise a deviation in one of two directions relative to the neutral point
  19)  Professional data scientist avoid 3d dat becuase it be difficlt to understand and illustrate to their audience
- 20)  
+ 20) color is categorical/unodered 
+ 21) the first color palette is more appropriate for communication with humans
+ 22) For the polar cordinates , the cities are as given below
+   + the city with the least varying temperature is
+     23) Acoording to the graph m 
 
