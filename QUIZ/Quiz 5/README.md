@@ -1,8 +1,9 @@
 1) Reading form: This can be translated to the probability of event A given event B ( a conditional probability of A occurring given that B has already occurred)
-2) + Classical Probability
-   + Bayesian Probability
-   + Frequentist Probability
-   + Propensity Probability
+2) + Classical Probability : probability as a ratio of favorable outcomes to total outcomes.
+   + Bayesian Probability : probability as a degree of belief or confidence,
+   + Frequentist Probability : Probability as the long-term frequency of an event occurring
+   + Propensity: focuses on the tendency or disposition of a system to produce a particular outcome under certain conditions, rather than on frequency or personal belief.
+
 3) Bayesian Probability
 4) Frequentist Probability
 5) Bayesian probability allows for the inclusion of subjective probability assessments. Since the existence of God is a matter of belief rather than empirical evidence, Bayesian probability allows one to quantify the belief in the existence of God based on personal or expert judgment.
