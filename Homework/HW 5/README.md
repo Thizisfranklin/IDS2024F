@@ -24,5 +24,13 @@ Example: Gender (e.g., Male, Female, Non-binary) or Fruit types (e.g., Apple, Ba
 9) 
 10) Income Distribution: In economics, income data often has a long right tail, with most people earning below the median, and a few people earning significantly more. Using a logarithmic transformation on the income axis helps to make the income distribution more comparable and readable.  
 11) The second diagram or grid
-12) 
+12)
++ Quanlitative color scale: a means to distinguish discrete items or groups that do not have an intrinsic order, such as different countries on a map  
++ Sequential color scale: can be used to represent data values, such as temperature , income , populaution  
++ Accent color scale: this is used to highlight specific element in a data.  
++ Diverging color scale: thi is ude to visualise a deviation in one of two directions relative to the neutral point
+13) When look at the graph it shows a density or population is below 0 years which is absolutely not realistic, so the data is really bad and bears a wrong representation of population density.  
+14) The first color pallete
+15) 
+
   
