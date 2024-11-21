@@ -26,17 +26,21 @@
     + Accent color scale: this is used to highlight specific element in a data.
     + Diverging color scale: thi is ude to visualise a deviation in one of two directions relative to the neutral point
  19)  Professional data scientist avoid 3-D data visualization, tend to avoid 3D plots because they can be difficult to interpret accurate and create misleading visualizations. It will be difficult to communicate the data to one's audience. 
- 20) 
+ 20) My example using zipcode: example illustrates how zip codes could be either numerical or categorical depending on how they are used in analysis:
+If zip codes are used for counting, ranking, or calculating distances, they can be treated as numerical data.
+If zip codes are used to group or classify data by geographical regions, they are treated as categorical data.
+The context and the type of analysis dictate whether a dataset is classified as numerical or categorical.
  21) Color can be either categorical/unordered or quantitative/ordered, depending on how it is used in data visualization. Color is categorical/unordered when it is used to differentiate distinct groups or categories. Color is quantitative/ordered when it represents a range of values that have a natural order or scale.
- 22) 
- 23)
+ 22)  THe second diagram e1 and e2 diagram 
+ 23) The best visualising color is the first color pallete as the colors are distinct from each other  
  24) US cities Temperatures
      + Chicago
      + Death Valley
      + San Diego
      + Death Valley
 25) The Color scales are as follows;  for a) Qualitative for b) Sequential for c) Diverging for d) Accent color scale
-26) 
+26) Polar coordinates are ideal when your data naturally involves angles or periodic, repeating patterns.
 27) Accent color scale was used
 28) The graph is ugly because of inappropiate representation the movies sales should be on the y axis while the salesshould be on the x -axis which will account fora better representation and the scales will look more in hierarchy and appealying the numbers of scale will then fit correctly with each represented bar plot.
-29) 
+29) a) The temperature will increase
+    b) In 2050, Earth's temperature will be projected to be approximately 1.0 to 1.5°C (1.8 to 2.7°F) warmer than the average temperature during the period 1951-1980.
