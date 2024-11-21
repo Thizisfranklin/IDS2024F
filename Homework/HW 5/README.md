@@ -31,6 +31,12 @@ Example: Gender (e.g., Male, Female, Non-binary) or Fruit types (e.g., Apple, Ba
 + Diverging color scale: thi is ude to visualise a deviation in one of two directions relative to the neutral point
 13) When look at the graph it shows a density or population is below 0 years which is absolutely not realistic, so the data is really bad and bears a wrong representation of population density.  
 14) The first color pallete
-15) 
+15)
+16) Classical Probability : probability as a ratio of favorable outcomes to total outcomes.  
+Bayesian Probability : probability as a degree of belief or confidence  
+Frequentist Probability : Probability as the long-term frequency of an event occurring  
+Propensity: focuses on the tendency or disposition of a system to produce a particular outcome under certain conditions, rather than on frequency or personal belief.
+17) Two living creatures are visible: a frog and a horse
+18) 
 
   
