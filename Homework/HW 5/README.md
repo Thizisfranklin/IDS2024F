@@ -37,6 +37,6 @@ Bayesian Probability : probability as a degree of belief or confidence
 Frequentist Probability : Probability as the long-term frequency of an event occurring  
 Propensity: focuses on the tendency or disposition of a system to produce a particular outcome under certain conditions, rather than on frequency or personal belief.
 17) Two living creatures are visible: a frog and a horse
-18) 
+18) https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241121_063444889.jpg
 
   
