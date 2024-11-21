@@ -1,5 +1,7 @@
-ee\  
-2) kkk  
+1)  
+2) (I)  Degrees of plausibility are represented by real numbers.  
+   (II) Qualitative correspondence with common sense.  
+  (III) Consistency  
 3) In data visualization, Aesthetics are visual elements that help communicate the data effectively which make the data more understandable and insightful. In data science they may include as color, size, shape, position, line style, text, and more. The careful selection and combination of these aesthetics help make data easier to understand, more engaging, and clearer for the viewer.  
 4) Continuous And Discrete Aesthetics      
 5) Quantitative (Numerical) Data:  
@@ -21,7 +23,7 @@ Example: Gender (e.g., Male, Female, Non-binary) or Fruit types (e.g., Apple, Ba
    + Month is Qualitative, 	Categorical	, Discrete,	Ordered
    + Station ID is Qualitative, Categorical, Discrete, Unordered
    + Location is Qualitative, Categorical, Discrete, Unordered
-9) 
+9) Axes should have the same units and grid size when they represent similar types of data or a proportional relationship, especially in cases where the data follows a linear or geometric relationship.  
 10) Income Distribution: In economics, income data often has a long right tail, with most people earning below the median, and a few people earning significantly more. Using a logarithmic transformation on the income axis helps to make the income distribution more comparable and readable.  
 11) The second diagram or grid
 12)
