@@ -15,4 +15,14 @@ Example: Survey ratings (e.g., Poor, Fair, Good, Excellent) or Education level (
 Unordered Data (Nominal Data):  
 Description: Data where the categories do not have any inherent order or ranking. The values are simply different from one another.  
 Example: Gender (e.g., Male, Female, Non-binary) or Fruit types (e.g., Apple, Banana, Cherry)  
+8) 
+   + Temperature is Quantitative, Numerical	, Continuous, ordered
+   + Day is quantitative, numerical, ordered, discrete 
+   + Month is Qualitative, 	Categorical	, Discrete,	Ordered
+   + Station ID is Qualitative, Categorical, Discrete, Unordered
+   + Location is Qualitative, Categorical, Discrete, Unordered
+9) 
+10) Income Distribution: In economics, income data often has a long right tail, with most people earning below the median, and a few people earning significantly more. Using a logarithmic transformation on the income axis helps to make the income distribution more comparable and readable.  
+11) The second diagram or grid
+12) 
   
