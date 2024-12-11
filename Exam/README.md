@@ -22,7 +22,8 @@ B ⇒ A: "If the streets are wet, then it must be raining." This is not necessar
 11. Equivalence of the numbers below:
   + 1 is 
 12. Yes.Real numbers are represented in computers using floating-point arithmetic, but due to finite precision and rounding errors, they are only approximations. Certain real numbers can't be exactly represented, and this can lead to inaccuracies.
-13.  The logical implication, deniocal, equilvance question:  
+13.  The logical implication, deniocal, equilvance question:
+    
 14.  The basic difference between git and github is that Git is a version control system for tracking code changes locally, while GitHub is a cloud platform for hosting Git repositories and enabling collaboration with additional tools like issue tracking and code reviews.
 15. Bayesian school of thought / probability theory.  
 16. Bayesian probability theory is most useful when data is scarce, as it allows the use of prior knowledge to make inferences. 
@@ -32,7 +33,24 @@ B ⇒ A: "If the streets are wet, then it must be raining." This is not necessar
 20. The ancestor programming language of C is B, developed in the 1960s.  
 21. The first high-level programming language is Fortran, developed in the 1950s for scientific and engineering calculation.
 22. Answer:
-23. Answer: 
+23. Answer:
+24. The deductive reasoning ang plausible reasoning.  
+For deductive reasoning:  
++ Premise 1: All mammals have a backbone.  
++ Premise 2: A man is a mammal  
++ Conclusion: Therefore, a man has a backbone.  
+The Plausible reasoning:  
++ Observation 1: The sun has risen in the east every day for thousands of years.  
++ Observation 2: Today the sun is rising in the east.  
++ Conclusion: Therefore, the sun will rise in the east tomorrow.
+25.Two Boolean propositions are equal if they have the same truth value for all possible inputs. This means their truth tables are identical, and for every combination of truth values for the variables, both propositions will yield the same result.
+26. 
+  
+
+
+
+
+
 
 
 
