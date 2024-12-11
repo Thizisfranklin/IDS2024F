@@ -23,9 +23,17 @@ B ⇒ A: "If the streets are wet, then it must be raining." This is not necessar
   + 1 is 
 12. Yes.Real numbers are represented in computers using floating-point arithmetic, but due to finite precision and rounding errors, they are only approximations. Certain real numbers can't be exactly represented, and this can lead to inaccuracies.
 13.  The logical implication, deniocal, equilvance question:  
-14.  The basic difference between git and github
-15. Bayesian school of thought
-16. When data is scarce the classical schol of thought 
+14.  The basic difference between git and github is that Git is a version control system for tracking code changes locally, while GitHub is a cloud platform for hosting Git repositories and enabling collaboration with additional tools like issue tracking and code reviews.
+15. Bayesian school of thought / probability theory.  
+16. Bayesian probability theory is most useful when data is scarce, as it allows the use of prior knowledge to make inferences. 
+17. The frequentist school of thought cannot define or discuss the probability of existence of God, , as it relies on observable frequencies and empirical data, not metaphysical or philosophical concepts.  
+18. For the Kernel density graph, the visualisation is completely wrong, because it depicts a certain population/person is below the age of 0 which is not poosible as nature implies. No one born on earth as for certain can be o years old. Hence I can concude the visualisation is wrong.     
+19. Everything in computers is represented by integers because computers use binary (0s and 1s) to store data, and integers are the most efficient way to represent binary values.  
+20. The ancestor programming language of C is B, developed in the 1960s.  
+21. The first high-level programming language is Fortran, developed in the 1950s for scientific and engineering calculation.
+22. Answer:
+23. Answer: 
+
 
 
 
