@@ -19,16 +19,21 @@ A: "It is raining."
 B: "The streets are/ is wet "
 A ⇒ B: "If it is raining, then the streets are wet."This is logically true in many common situations, because when it rains, the streets often get wet. Rain is a common cause of wet streets.
 B ⇒ A: "If the streets are wet, then it must be raining." This is not necessarily true. The streets could be wet for reasons other than rain. Hence The wetness of the streets (B) could have many causes besides rain (A), such as washing the streets, a burst water pipe, or any number of other factors. While A ⇒ B might hold logically (because rain often leads to wet streets), it doesn’t imply that A (rain) is the cause of B (wet streets), as there are many other potential causes for the wetness. This shows that logical implication does not always equate to physical causation.
-8. a) It isn't a visually good fit. This is because
-9.No. First it is important to note or recal what integers are, there are negative or positive whole number . 
-10. The consistency criteria required to define probability are as follows:
+8. a) I think i line is a bad fit as the red line doesn't closely match the trend and key features of the data. At a glance, it is visible the red line fails to represent key changes in the dataset,as line doesn’t follow a rise or dip in temperature at certain points( specifically from the 1950s to the 2000s). And two, at ccertain points the red line undershoots( it don't represent/ touch) the spikes that is from around the 1700s to the 1840s. That shows that the visualisation is bad.  
+   b) Yes, this dataset can be classified as time series data because it represents a sequence of data points (global temperature anomalies) measured at successive points in time (over years or decades). The data shows trends and patterns over time, which is characteristic of time series data.  
+   c) The uncertanity is epistemtic. The dominant uncertainty before 1850 in the temperature dataset is epistemic because it arises from a lack of precise, direct data, and this uncertainty could potentially be reduced as more information becomes available.  
+   d)  The rise and temporary decline in temperature anomalies around the 1940s could be due various reasons like volcanic eruptions, increased aerosol emissions, or natural climate variability that occured during those period, but according to my knowledge about history i can say a definite role or factor was the several significant volcanic eruptions in the mid-20th century (i.e Mount Agung in 1963), which released large amounts of aerosols into the atmosphere, leading to temporary cooling effects as well as the rapidd growth in industralization at this period, which  led to industrial pollution and increased aerosol emissions during this time.
+9. No, we can not. Probability requires the precision of real numbers to express fractional and decimal values that lie between 0 and 1, and integer numbers cannot provide this flexibility.
+  10. The consistency criteria required to define probability are as follows:
 + (I)Degrees of plausibility are represented by real numbers.  
 + (II) Qualitative correspondence with common sense.  
 + (III) Consistency.  
-11. Equivalence of the numbers below:
-  + 1 is 
+11. Equivalence of the numbers are below:
+  + 1 in binary = 1 in decimal
+  + 1 in binary = 1 in decimal
+  + 10 in binary = 2 in decimal
 12. Yes.Real numbers are represented in computers using floating-point arithmetic, but due to finite precision and rounding errors, they are only approximations. Certain real numbers can't be exactly represented, and this can lead to inaccuracies.
-13.  The logical implication, deniocal, equilvance question:
+13.  The logical implication, denial, equilvance question:
     
 14.  The basic difference between git and github is that Git is a version control system for tracking code changes locally, while GitHub is a cloud platform for hosting Git repositories and enabling collaboration with additional tools like issue tracking and code reviews.
 15. Bayesian school of thought / probability theory.  
