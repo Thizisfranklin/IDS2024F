@@ -5,8 +5,14 @@
    + Qualitative color scale 
    + Sequential color scale
    + Diverging color scale
-   + Accent color scale 
-5 . The following statements are valid:
+   + Accent color scale
+5. Below are my responses to the validity of the statements:
++ "This person is breathing. = This person is inhaling and exhaling." – Invalid, as breathing is broaderor beyond than just inhaling and exhaling.  
++ "This person is breathing. ≡ This person is inhaling and exhaling." – Valid, as breathing typically involves both inhaling and exhaling.  
++ "This person is conscious. ≡ This person is breathing." – Invalid, as a person can be unconscious yet still breathe ( this is medically proven).  
++ "This person is conscious. = This person is breathing." – Invalid, as consciousness and breathing are not directly equivalent.  
++ "It is rainy. ≡ The sky is cloudy." – Invalid, as rain and cloudiness are not logically equivalent.  
++ "It is rainy. = The sky is cloudy." – Invalid, as rain does not always require clouds.
 6. The three pillars of science are Theory, experiment, and computation+data
 7. No logical implication does not imply physical caustaion.As one night imply.Example: (logical implication does not necessarily imply physical causation)
 A: "It is raining."
