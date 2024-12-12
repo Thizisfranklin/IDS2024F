@@ -34,6 +34,7 @@ B ⇒ A: "If the streets are wet, then it must be raining." This is not necessar
   + 10 in binary = 2 in decimal
 12. Yes.Real numbers are represented in computers using floating-point arithmetic, but due to finite precision and rounding errors, they are only approximations. Certain real numbers can't be exactly represented, and this can lead to inaccuracies.
 13.  The logical implication, denial, equilvance question:
+    https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035126828.jpg  
     
 14.  The basic difference between git and github is that Git is a version control system for tracking code changes locally, while GitHub is a cloud platform for hosting Git repositories and enabling collaboration with additional tools like issue tracking and code reviews.
 15. Bayesian school of thought / probability theory.  
