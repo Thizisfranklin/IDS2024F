@@ -23,8 +23,8 @@ B ⇒ A: "If the streets are wet, then it must be raining." This is not necessar
    b) Yes, this dataset can be classified as time series data because it represents a sequence of data points (global temperature anomalies) measured at successive points in time (over years or decades). The data shows trends and patterns over time, which is characteristic of time series data.  
    c) The uncertanity is epistemtic. The dominant uncertainty before 1850 in the temperature dataset is epistemic because it arises from a lack of precise, direct data, and this uncertainty could potentially be reduced as more information becomes available.  
    d)  The rise and temporary decline in temperature anomalies around the 1940s could be due various reasons like volcanic eruptions, increased aerosol emissions, or natural climate variability that occured during those period, but according to my knowledge about history i can say a definite role or factor was the several significant volcanic eruptions in the mid-20th century (i.e Mount Agung in 1963), which released large amounts of aerosols into the atmosphere, leading to temporary cooling effects as well as the rapidd growth in industralization at this period, which  led to industrial pollution and increased aerosol emissions during this time.
-9. No, we can not. Probability requires the precision of real numbers to express fractional and decimal values that lie between 0 and 1, and integer numbers cannot provide this flexibility.
-  10. The consistency criteria required to define probability are as follows:
+9. No, we can not. Probability requires the precision of real numbers to express fractional and decimal values that lie between 0 and 1, and integer numbers cannot provide this flexibility.  
+10. The consistency criteria required to define probability are as follows:
 + (I)Degrees of plausibility are represented by real numbers.  
 + (II) Qualitative correspondence with common sense.  
 + (III) Consistency.  
@@ -57,11 +57,11 @@ The Plausible reasoning:
 + Conclusion: Therefore, the sun will rise in the east tomorrow.
 25.Two Boolean propositions are equal if they have the same truth value for all possible inputs. This means their truth tables are identical, and for every combination of truth values for the variables, both propositions will yield the same result.
 26. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035152872.MP.jpg  
-27. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035152872.MP.jpg  and  https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035202073.MP.jpg  
-28. Answer: 
-29. Answer: 
-30. Answer:
-31. Answer:
+27. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035152872.MP.jpg and https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035202073.MP.jpg  
+28. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035214608.jpg  
+29. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035214608.jpg  
+30. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035221932.MP.jpg  
+31. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035221932.MP.jpg  
 32.  In nature, there are two uncertanities aleatoric and epistemic
 + Aleatoric uncertainty (inherent randomness) is intrinsic to nature because it arises from the fundamental unpredictability or randomness in systems, such as quantum mechanics.
 + Epistemic uncertainty, in contrast, is extrinsic and arises from a lack of knowledge, which can, in theory, be reduced through better understanding, data, or measurement precision.
