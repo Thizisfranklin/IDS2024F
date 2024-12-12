@@ -44,8 +44,8 @@ B ⇒ A: "If the streets are wet, then it must be raining." This is not necessar
 19. Everything in computers is represented by integers because computers use binary (0s and 1s) to store data, and integers are the most efficient way to represent binary values.  
 20. The ancestor programming language of C is B, developed in the 1960s.  
 21. The first high-level programming language is Fortran, developed in the 1950s for scientific and engineering calculation.
-22. Answer:
-23. Answer:
+22. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035138673.jpg  
+23. Answer:https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035138673.jpg  
 24. The deductive reasoning ang plausible reasoning.  
 For deductive reasoning:  
 + Premise 1: All mammals have a backbone.  
@@ -56,8 +56,8 @@ The Plausible reasoning:
 + Observation 2: Today the sun is rising in the east.  
 + Conclusion: Therefore, the sun will rise in the east tomorrow.
 25.Two Boolean propositions are equal if they have the same truth value for all possible inputs. This means their truth tables are identical, and for every combination of truth values for the variables, both propositions will yield the same result.
-26. Answer: 
-27. Answer: 
+26. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035152872.MP.jpg  
+27. Answer: https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035152872.MP.jpg  and  https://github.com/Thizisfranklin/IDS2024F/blob/main/PXL_20241212_035202073.MP.jpg  
 28. Answer: 
 29. Answer: 
 30. Answer:
