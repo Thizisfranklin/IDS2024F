@@ -55,7 +55,16 @@ The Plausible reasoning:
 + Observation 2: Today the sun is rising in the east.  
 + Conclusion: Therefore, the sun will rise in the east tomorrow.
 25.Two Boolean propositions are equal if they have the same truth value for all possible inputs. This means their truth tables are identical, and for every combination of truth values for the variables, both propositions will yield the same result.
-26. 
+26. Answer: 
+27. Answer: 
+28. Answer: 
+29. Answer: 
+30. Answer:
+31. Answer:
+32.  In nature, there are two uncertanities aleatoric and epistemic
++ Aleatoric uncertainty (inherent randomness) is intrinsic to nature because it arises from the fundamental unpredictability or randomness in systems, such as quantum mechanics.
++ Epistemic uncertainty, in contrast, is extrinsic and arises from a lack of knowledge, which can, in theory, be reduced through better understanding, data, or measurement precision.
+
   
 
 
